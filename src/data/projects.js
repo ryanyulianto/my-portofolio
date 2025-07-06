@@ -21,7 +21,7 @@ export const projects = [
   },
   {
     id: 3,
-    title: 'Human Resource System',
+    title: 'Humman Resource System',
     description: 'Designed and implemented a full-scale HR system for efficient employee management, attendance tracking, and payroll processing.',
     tech: ['Laravel', 'Tailwind CSS', 'Livewire', 'PostgreSQL'],
     image: '/images/humman-resource.png',
